@@ -145,7 +145,7 @@ jobs:
       with:
         upload_url: ${{ steps.get_upload_url.outputs.upload_url }}
         asset_path: ./fmtlog/.build/libfmtlog-static.a
-        asset_name: ${{ steps.libname.outputs.NAME }}
+        asset_name: libfmtlog-static.a
         asset_content_type: application/octet-stream
     # - name: Upload Debug Asset
     #   id: upload_debug_asset
