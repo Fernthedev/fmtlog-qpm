@@ -1,0 +1,20 @@
+{
+  "sharedDir": "fmtlog",
+  "dependenciesDir": "extern",
+  "info": {
+    "name": "fmtlog",
+    "id": "fmtlog",
+    "version": "8.0.0",
+    "url": "https://github.com/Fernthedev/fmtlog-qpm",
+    "additionalData": {
+      "staticLinking": true,
+      "compileOptions": {
+        "systemIncludes": [
+          "fmtlog/"
+        ]
+      }
+    }
+  },
+  "dependencies": [],
+  "additionalData": {}
+}

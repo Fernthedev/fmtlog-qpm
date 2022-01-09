@@ -1,0 +1,18 @@
+{
+  "config": {
+    "sharedDir": "fmt/include",
+    "dependenciesDir": "extern",
+    "info": {
+      "name": "fmt",
+      "id": "fmt",
+      "version": "8.0.0",
+      "url": "https://github.com/Fernthedev/fmt-qpm",
+      "additionalData": {
+        "headersOnly": true
+      }
+    },
+    "dependencies": [],
+    "additionalData": {}
+  },
+  "restoredDependencies": []
+}
