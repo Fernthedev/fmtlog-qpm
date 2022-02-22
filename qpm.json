@@ -11,7 +11,7 @@
       "overrideSoName": "libfmtlog-static.a",
       "compileOptions": {
         "systemIncludes": [
-          "fmtlog/"
+          ""
         ]
       }
     }
