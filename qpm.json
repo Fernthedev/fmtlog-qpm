@@ -8,7 +8,9 @@
     "url": "https://github.com/Fernthedev/fmtlog-qpm",
     "additionalData": {
       "staticLinking": true,
+      "soLink": "https://github.com/Fernthedev/fmtlog-qpm/releases/download/v2.1.4/libfmtlog-static.a",
       "overrideSoName": "libfmtlog-static.a",
+      "branchName": "version-v2.1.4",
       "compileOptions": {
         "systemIncludes": [
           ""
